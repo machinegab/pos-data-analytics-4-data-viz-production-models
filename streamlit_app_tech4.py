@@ -40,13 +40,13 @@ df = load_data()
 # ------------------------------------------------------------------------------------------------------------------------
 
 # Título
-st.write("Danilo Francisco Pires - RM: xxxxx")
+st.write("Danilo Francisco Pires - RM: 354836")
 st.write("Gabriel Martins - RM: 355180")
 
 st.title("Análise e Previsão do Preço do Petróleo")
 st.write("- Os dados apresentam grande volatilidade ao longo dos anos, as variações são bem acentuadas e marcadas por eventos globais.")
 st.write("- Utilização do modelo Prophet para realização do forecasting")
-st.write("- Dados de 01/01/2000 até 04/11/2024")
+st.write("- Dados de 20/05/1987 até 04/11/2024")
 
 # ------------------------------------------------------------------------------------------------------------------------
 
