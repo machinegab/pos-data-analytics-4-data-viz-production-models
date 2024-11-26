@@ -7,7 +7,7 @@ import numpy as np
 
 # Configuração da página
 st.set_page_config(
-    page_title='Pós Tech - Data Analystics, Fase 4',
+    page_title='Pós Tech - Data Analytics, Fase 4',
     layout='wide'
 )
 
